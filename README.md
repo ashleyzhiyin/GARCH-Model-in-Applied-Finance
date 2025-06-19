@@ -1,0 +1,1 @@
+# GARCH-Model-in-Applied-Finance
